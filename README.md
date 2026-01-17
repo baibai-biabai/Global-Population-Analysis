@@ -11,7 +11,7 @@
 
 ## 数据来源
 
-本研究基于Kaggle平台提供的"World Population Dataset"，整合了三个主要数据源：
+本研究基于Kaggle平台提供的"World Population Dataset"，https://www.kaggle.com/datasets/chandanchoudhury/world-population-dataset，整合了三个主要数据源：
 
 1. **世界国家统计数据** (`world_country_stats.csv`) - 234×5
    - 国家、地区、土地面积、生育率、中位年龄
